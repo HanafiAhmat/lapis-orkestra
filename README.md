@@ -370,3 +370,24 @@ Together, these repositories form a complete working ecosystem:
 
 This ecosystem validates the framework’s design goals of **modularity**, **maintainability**, and **incremental development**.
 
+---
+
+## License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## Author
+
+**Hanafi Ahmat**
+
+Master’s Candidate – Computer Science
+
+GitHub: [https://github.com/HanafiAhmat](https://github.com/HanafiAhmat)
+
+---
+
+## Disclaimer
+
+This application skeleton is provided **for academic research and demonstration purposes only**. It is not intended for production use.
