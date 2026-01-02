@@ -3,7 +3,8 @@
 ---
 
 > For full project context, return to [Main README](../README.md)
-> [← Back to DTO (Data Transfer Objects) README](../docs/DTO.md)
+>
+> [← Back to DTO (Data Transfer Objects)](../docs/DTO.md)
 
 ---
 
@@ -310,7 +311,7 @@ These gaps are a consequence of time constraints and are planned for future iter
 
 ## Next Document
 
-Proceed to [**CLI.md**](../docs/CLI.md) to read on:
+Proceed to [CLI](../docs/CLI.md) to read on:
 
 * console lifecycle (`LapisConsole::run()`)
 * command discovery
@@ -318,5 +319,6 @@ Proceed to [**CLI.md**](../docs/CLI.md) to read on:
   
 ---
 
-[← Back to DTO (Data Transfer Objects) README](../docs/DTO.md)
+[← Back to DTO (Data Transfer Objects)](../docs/DTO.md)
+
 [← Back to Main README](../README.md)

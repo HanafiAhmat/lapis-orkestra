@@ -3,7 +3,8 @@
 ---
 
 > For full project context, return to [Main README](../README.md)
-> [← Back to Testing README](../docs/TESTING.md)
+>
+> [← Back to Testing](../docs/TESTING.md)
 
 ---
 
@@ -170,5 +171,6 @@ This reinforces the framework’s role as a **maintenance-focused research artef
 
 ---
 
-[← Back to Testing README](../docs/TESTING.md)
+[← Back to Testing](../docs/TESTING.md)
+
 [← Back to Main README](../README.md)

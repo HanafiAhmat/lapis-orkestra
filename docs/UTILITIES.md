@@ -3,7 +3,8 @@
 ---
 
 > For full project context, return to [Main README](../README.md)
-> [← Back to Registries README](../docs/REGISTRIES.md)
+> 
+> [← Back to Registries](../docs/REGISTRIES.md)
 
 ---
 
@@ -398,7 +399,7 @@ Utilities also improve debugging:
 
 ## Next Document
 
-Proceed to [**SERVICES.md**](../docs/SERVICES.md) to read on:
+Proceed to [Services](../docs/SERVICES.md) to read on:
 
 * Providers vs Adapters
 * `ProviderInfo` metadata and discovery
@@ -408,4 +409,5 @@ Proceed to [**SERVICES.md**](../docs/SERVICES.md) to read on:
 ---
 
 [← Back to Registries](../docs/REGISTRIES.md)
+
 [← Back to Main README](../README.md)

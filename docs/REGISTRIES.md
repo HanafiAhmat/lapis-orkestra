@@ -3,7 +3,8 @@
 ---
 
 > For full project context, return to [Main README](../README.md)
-> [← Back to Configuration README](../docs/CONFIG.md)
+> 
+> [← Back to Configuration](../docs/CONFIG.md)
 
 ---
 
@@ -370,7 +371,7 @@ Registries are powerful, but must remain disciplined.
 
 ## Next Document
 
-Proceed to [**UTILITIES.md**](../docs/UTILITIES.md) to read on:
+Proceed to [Utilities](../docs/UTILITIES.md) to read on:
 
 * what Utilities do
 * Adapter pattern and discovery
@@ -379,4 +380,5 @@ Proceed to [**UTILITIES.md**](../docs/UTILITIES.md) to read on:
 ---
 
 [← Back to Configuration](../docs/CONFIG.md)
+
 [← Back to Main README](../README.md)

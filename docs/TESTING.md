@@ -3,7 +3,8 @@
 ---
 
 > For full project context, return to [Main README](../README.md)
-> [← Back to CLI README](../docs/CLI.md)
+>
+> [← Back to CLI](../docs/CLI.md)
 
 ---
 
@@ -204,9 +205,10 @@ This transparent approach reflects real-world software maintenance and evolution
 
 ## Next Document
 
-Proceed to [**LIMITATIONS_AND_FUTURE_WORK.md**](../docs/LIMITATIONS_AND_FUTURE_WORK.md).
+Proceed to [Limitations and Future Work](../docs/LIMITATIONS_AND_FUTURE_WORK.md).
 
 ---
 
-[← Back to CLI README](../docs/CLI.md)
+[← Back to CLI](../docs/CLI.md)
+
 [← Back to Main README](../README.md)

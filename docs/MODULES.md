@@ -3,7 +3,8 @@
 ---
 
 > For full project context, return to [Main README](../README.md)
-> [← Back to Architecture README](../docs/ARCHITECTURE.md)
+>
+> [← Back to Architecture](../docs/ARCHITECTURE.md)
 
 ---
 
@@ -484,7 +485,7 @@ Example:
 
 ## Next Document
 
-Proceed to [**CONFIG.md**](../docs/CONFIG.md) to read on:
+Proceed to [Configuration](../docs/CONFIG.md) to read on:
 
 * how module defaults are merged
 * how environment overrides work
@@ -492,5 +493,6 @@ Proceed to [**CONFIG.md**](../docs/CONFIG.md) to read on:
 
 ---
 
-[← Back to Architecture README](../docs/ARCHITECTURE.md)
+[← Back to Architecture](../docs/ARCHITECTURE.md)
+
 [← Back to Main README](../README.md)

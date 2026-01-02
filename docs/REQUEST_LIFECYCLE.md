@@ -3,7 +3,8 @@
 ---
 
 > For full project context, return to [Main README](../README.md)
-> [← Back to Services README](../docs/SERVICES.md)
+>
+> [← Back to Services](../docs/SERVICES.md)
 
 ---
 
@@ -281,7 +282,7 @@ This execution model is a core mechanism by which Lapis Orkestra achieves mainta
 
 ## Next Document
 
-Proceed to [**CONTROLLER_EXECUTION_MODEL.md**](../docs/CONTROLLER_EXECUTION_MODEL.md) to read on:
+Proceed to [Request Lifecycle](../docs/CONTROLLER_EXECUTION_MODEL.md) to read on:
 
 * controller role
 * action role
@@ -290,5 +291,6 @@ Proceed to [**CONTROLLER_EXECUTION_MODEL.md**](../docs/CONTROLLER_EXECUTION_MODE
 
 ---
 
-[← Back to Services README](../docs/SERVICES.md)
+[← Back to Services](../docs/SERVICES.md)
+
 [← Back to Main README](../README.md)

@@ -3,7 +3,8 @@
 ---
 
 > For full project context, return to [Main README](../README.md)
-> [← Back to Modules & Structure README](../docs/MODULES.md)
+>
+> [← Back to Modules](../docs/MODULES.md)
 
 ---
 
@@ -263,7 +264,7 @@ Configuration changes do not require architectural changes.
 
 ## Next Document
 
-Proceed to [**REGISTRIES.md**](../docs/REGISTRIES.md) to read on:
+Proceed to [Registries](../docs/REGISTRIES.md) to read on:
 
 * why registries exist
 * how each registry differs in responsibility
@@ -271,5 +272,6 @@ Proceed to [**REGISTRIES.md**](../docs/REGISTRIES.md) to read on:
 
 ---
 
-[← Back to Modules & Structure README](../docs/MODULES.md)
+[← Back to Modules](../docs/MODULES.md)
+
 [← Back to Main README](../README.md)

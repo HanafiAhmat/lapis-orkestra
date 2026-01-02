@@ -3,7 +3,8 @@
 ---
 
 > For full project context, return to [Main README](../README.md)
-> [← Back to Security README](../docs/SECURITY.md)
+>
+> [← Back to Security](../docs/SECURITY.md)
 
 ---
 
@@ -226,7 +227,7 @@ CLI integration improves maintainability because:
 
 ## Next Document
 
-Proceed to [**TESTING.md**](../docs/TESTING.md) to read on:
+Proceed to [Testing](../docs/TESTING.md) to read on:
 
 * current testing status
 * reasons for deferring tests
@@ -234,5 +235,6 @@ Proceed to [**TESTING.md**](../docs/TESTING.md) to read on:
   
 ---
 
-[← Back to Security README](../docs/SECURITY.md)
+[← Back to Security](../docs/SECURITY.md)
+
 [← Back to Main README](../README.md)

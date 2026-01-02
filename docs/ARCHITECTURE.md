@@ -390,9 +390,9 @@ Lapis Orkestra was designed to keep system evolution controlled:
 
 After this architecture overview, the recommended next docs are:
 
-* [**MODULES.md**](../docs/MODULES.md) — module anatomy, app vs vendor, discovery rules, Interactors
-* [**REGISTRIES.md**](../docs/REGISTRIES.md) — registry roles, VarRegistry rationale, traceability benefits
-* [**UTILITIES.md**](../docs/UTILITIES.md) / [**SERVICES.md**](../docs/SERVICES.md) — adapter vs provider boundaries
+* [MODULES](../docs/MODULES.md) — module anatomy, app vs vendor, discovery rules, Interactors
+* [REGISTRIES](../docs/REGISTRIES.md) — registry roles, VarRegistry rationale, traceability benefits
+* [UTILITIES](../docs/UTILITIES.md) / [SERVICES](../docs/SERVICES.md) — adapter vs provider boundaries
 
 ---
 

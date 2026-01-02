@@ -3,7 +3,8 @@
 ---
 
 > For full project context, return to [Main README](../README.md)
-> [← Back to Controller Execution Model README](../docs/CONTROLLER_EXECUTION_MODEL.md)
+>
+> [← Back to Controller Execution Model](../docs/CONTROLLER_EXECUTION_MODEL.md)
 
 ---
 
@@ -235,7 +236,7 @@ To maintain consistent DTO quality:
 
 ## Next Document
 
-Proceed to [**SECURITY.md**](../docs/SECURITY.md) to read on:
+Proceed to [Security](../docs/SECURITY.md) to read on:
 
 * security placement in the request lifecycle
 * JWT payload design, user types, and verification
@@ -244,5 +245,6 @@ Proceed to [**SECURITY.md**](../docs/SECURITY.md) to read on:
   
 ---
 
-[← Back to Controller Execution Model README](../docs/CONTROLLER_EXECUTION_MODEL.md)
+[← Back to Controller Execution Model](../docs/CONTROLLER_EXECUTION_MODEL.md)
+
 [← Back to Main README](../README.md)

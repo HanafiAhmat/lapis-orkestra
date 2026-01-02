@@ -3,7 +3,8 @@
 ---
 
 > For full project context, return to [Main README](../README.md)
-> [← Back to Request Lifecycle README](../docs/REQUEST_LIFECYCLE.md)
+>
+> [← Back to Request Lifecycle](../docs/REQUEST_LIFECYCLE.md)
 
 ---
 
@@ -302,7 +303,7 @@ This layered execution model balances **architectural discipline** with **practi
 
 ## Next Document
 
-Proceed to [**DTO.md**](../docs/DTO.md) to read on:
+Proceed to [DTO (Data Transfer Objects)](../docs/DTO.md) to read on:
 
 * justify ActionResponse
 * typed data contracts
@@ -310,5 +311,6 @@ Proceed to [**DTO.md**](../docs/DTO.md) to read on:
   
 ---
 
-[← Back to Request Lifecycle README](../docs/REQUEST_LIFECYCLE.md)
+[← Back to Request Lifecycle](../docs/REQUEST_LIFECYCLE.md)
+
 [← Back to Main README](../README.md)

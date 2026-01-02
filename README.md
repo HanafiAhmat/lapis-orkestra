@@ -297,12 +297,28 @@ Supporting documentation expands on architectural decisions and their academic j
 
 > Continue reading:
 >
-> 🔗 [Architecture Details](docs/ARCHITECTURE.md)
-> 🔗 [Modules & Structure](docs/MODULES.md)
+> 🔗 [Architecture](docs/ARCHITECTURE.md)
+>
+> 🔗 [Modules](docs/MODULES.md)
+>
 > 🔗 [Configuration](docs/CONFIG.md)
+>
 > 🔗 [Registries](docs/REGISTRIES.md)
-> 🔗 [Permissions](docs/PERMISSIONS.md)
+>
+> 🔗 [Utilities](docs/UTILITIES.md)
+>
+> 🔗 [Services](docs/SERVICES.md)
+>
+> 🔗 [Request Lifecycle](docs/REQUEST_LIFECYCLE.md)
+>
+> 🔗 [Controller Execution Model](docs/CONTROLLER_EXECUTION_MODEL.md)
+>
+> 🔗 [DTO (Data Transfer Objects)](docs/DTO.md)
+>
+> 🔗 [Security](docs/SECURITY.md)
+>
+> 🔗 [CLI](docs/CLI.md)
+>
 > 🔗 [Testing](docs/TESTING.md)
-> 🔗 [Middleware Guide](docs/MIDDLEWARES.md)
-> 🔗 [CLI Tools](docs/CLI.md)
-> 🔗 [FAQ](docs/FAQ.md)
+>
+> 🔗 [Limitations and Future Work](docs/LIMITATIONS_AND_FUTURE_WORK.md)

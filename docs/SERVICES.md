@@ -3,7 +3,8 @@
 ---
 
 > For full project context, return to [Main README](../README.md)
-> [← Back to Utilities README](../docs/UTILITIES.md)
+>
+> [← Back to Utilities](../docs/UTILITIES.md)
 
 ---
 
@@ -295,7 +296,7 @@ They also reduce risk:
 
 ## Next Document
 
-Proceed to [**REQUEST_LIFECYCLE.md**](../docs/REQUEST_LIFECYCLE.md) to read on:
+Proceed to [Request Lifecycle](../docs/REQUEST_LIFECYCLE.md) to read on:
 
 * middleware lifecycle and ordering
 * middleware keys via registry
@@ -306,4 +307,5 @@ Proceed to [**REQUEST_LIFECYCLE.md**](../docs/REQUEST_LIFECYCLE.md) to read on:
 ---
 
 [← Back to Utilities](../docs/UTILITIES.md)
+
 [← Back to Main README](../README.md)
