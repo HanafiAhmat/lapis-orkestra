@@ -282,7 +282,7 @@ This execution model is a core mechanism by which Lapis Orkestra achieves mainta
 
 ## Next Document
 
-Proceed to [Request Lifecycle](../docs/CONTROLLER_EXECUTION_MODEL.md) to read on:
+Proceed to [Controller Execution Model](../docs/CONTROLLER_EXECUTION_MODEL.md) to read on:
 
 * controller role
 * action role
