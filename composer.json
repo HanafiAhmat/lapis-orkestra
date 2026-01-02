@@ -1,0 +1,96 @@
+{
+    "name": "hanafiahmat/lapis-orkestra",
+    "version": "0.1.0-alpha",
+    "description": "A research-oriented modular backend web framework prototype developed for a Master's thesis, focusing on maintainability, incremental development, and layered architecture.",
+    "type": "library",
+    "require": {
+        "php": "^8.1",
+        "ext-json": "*",
+        "ext-curl": "*",
+        "ext-fileinfo": "*",
+        "ext-gd": "*",
+        "ext-iconv": "*",
+        "ext-intl": "*",
+        "ext-openssl": "*",
+        "ext-session": "*",
+        "ext-tokenizer": "*",
+        "aura/router": "^3.4",
+        "aura/session": "^4.0",
+        "endroid/qr-code": "^5.1",
+        "firebase/php-jwt": "^6.11",
+        "guzzlehttp/guzzle": "^7.9",
+        "http-interop/http-factory-guzzle": "^1.2",
+        "illuminate/database": "^10.48",
+        "laminas/laminas-validator": "^3.4",
+        "league/plates": "^3.6",
+        "middlewares/client-ip": "^2.1",
+        "middlewares/payload": "^3.1",
+        "monolog/monolog": "^3.9",
+        "nesbot/carbon": "^2.73",
+        "nikic/fast-route": "^1.3",
+        "nyholm/psr7": "^1.8",
+        "nyholm/psr7-server": "^1.1",
+        "phpmailer/phpmailer": "^6.10",
+        "psr/cache": "^3.0",
+        "psr/container": "^2.0",
+        "psr/http-message": "^2.0",
+        "psr/log": "^3.0",
+        "relay/relay": "^3.0",
+        "robmorgan/phinx": "^0.16.9",
+        "spomky-labs/otphp": "^11.3",
+        "symfony/cache": "^6.4",
+        "symfony/console": "^6.4",
+        "symfony/error-handler": "^6.4",
+        "symfony/http-client": "^6.4",
+        "symfony/process": "^6.4",
+        "tijsverkoyen/css-to-inline-styles": "^2.3",
+        "twig/twig": "^3.21",
+        "vlucas/phpdotenv": "^5.6"
+    },
+    "require-dev": {
+        "ext-xdebug": "*",
+        "fakerphp/faker": "^1.24",
+        "filp/whoops": "^2.18",
+        "phpstan/phpstan": "^2.1",
+        "rector/rector": "^2.0",
+        "slevomat/coding-standard": "8.22.1",
+        "symfony/var-dumper": "^6.4",
+        "symplify/easy-coding-standard": "12.5.18"
+    },
+    "scripts": {
+        "ecs": "./vendor/bin/ecs check --ansi",
+        "ecs:fix": "./vendor/bin/ecs check --fix --ansi",
+        "phpstan": "./vendor/bin/phpstan analyse",
+        "phpstan:baseline": "./vendor/bin/phpstan analyze --generate-baseline",
+        "phpstan:log": "./vendor/bin/phpstan analyse > tmp/logs/phpstan.log",
+        "refactor": "./vendor/bin/rector process",
+        "serve": "php -S localhost:8000 -t public",
+        "analyze": [
+            "@phpstan",
+            "@ecs"
+        ]
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "BitSynama\\Lapis\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "BitSynama\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hanafi Ahmat",
+            "email": "ahmat.hanafi@gmail.com",
+            "role": "developer"
+        }
+    ],
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
+    }
+}

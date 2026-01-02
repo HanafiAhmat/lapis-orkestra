@@ -1,0 +1,22 @@
+{
+  "name": "lapis-orkestra-assets",
+  "version": "1.0.0",
+  "description": "Custom Bootstrap theme for Lapis Orkestra",
+  "scripts": {
+    "build-css": "npm run build-admin-css && npm run build-public-css",
+    "build-admin-css": "sass --no-source-map --load-path=node_modules assets/scss/admin/theme.scss public/assets/default/admin/css/bootstrap-theme.css",
+    "build-public-css": "sass --no-source-map --load-path=node_modules assets/scss/public/theme.scss public/assets/default/public/css/bootstrap-theme.css",
+    "watch-admin-css": "sass --watch --load-path=node_modules assets/scss/admin/theme.scss public/assets/default/admin/css/bootstrap-theme.css",
+    "watch-public-css": "sass --watch --load-path=node_modules assets/scss/public/theme.scss public/assets/default/public/css/bootstrap-theme.css",
+    "copy-bootstrap-js": "mkdir -p public/assets/default/shared && mkdir -p public/assets/default/shared/js && cp node_modules/bootstrap/dist/js/bootstrap.bundle.min.js public/assets/default/shared/js/",
+    "copy-icons-fonts": "cp -r node_modules/bootstrap-icons/font/fonts public/assets/default/admin/css/fonts && cp -r node_modules/bootstrap-icons/font/fonts public/assets/default/public/css/fonts",
+    "postinstall": "npm run copy-bootstrap-js && npm run copy-icons-fonts"
+  },
+  "devDependencies": {
+    "sass": "^1.77.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.7",
+    "bootstrap-icons": "^1.13.1"
+  }
+}

@@ -1,0 +1,31 @@
+// Override Bootstrap color variables
+$primary: #3B82F6;
+$secondary: #9333EA;
+$success: #10B981;
+$danger: #EF4444;
+$warning: #F59E0B;
+$info: #0EA5E9;
+
+$light: #F3F4F6;
+$dark: #111827;
+
+// Typography & base
+$body-bg: #F9FAFB;
+$body-color: #111827;
+$font-family-sans-serif: 'Inter', 'Segoe UI', 'Helvetica Neue', sans-serif;
+
+// Rounded corners
+$border-radius: 0.5rem;
+
+// Padding for inputs/buttons
+$input-btn-padding-y: 0.5rem;
+$input-btn-padding-x: 1rem;
+
+// Container breakpoints
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1320px
+);

@@ -1,0 +1,49 @@
+# macOS & Windows system files
+.DS_Store
+Thumbs.db
+
+# IDE and editor config
+.vscode/
+.vagrant/
+
+# PHP dependencies (Composer)
+vendor/
+
+# Node dependencies
+node_modules/
+
+# Temporary, SQLite development database & session files
+tmp/
+!tmp/database/.gitkeep
+!tmp/logs/.gitkeep
+!tmp/caches/.gitkeep
+
+# Local environment config
+.env-local
+.env.*.local
+.env.test
+
+# Compiled assets (if you generate them into /public)
+public/assets/default/shared/js/*
+public/assets/default/admin/css/bootstrap-theme.css
+public/assets/default/admin/css/fonts
+public/assets/default/public/css/bootstrap-theme.css
+public/assets/default/public/css/fonts
+
+# Sass cache (if applicable)
+.sass-cache/
+*.css.map
+*.scssc
+
+# OS or tool-generated files
+*.log
+*.bak
+*.swp
+*.zip
+*.tar
+*.gz
+
+# npm debug log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*

@@ -1,0 +1,11 @@
+includes:
+    - phpstan-baseline.neon
+
+parameters:
+    level: 9
+    paths:
+        - src
+    treatPhpDocTypesAsCertain: false
+    stubFiles:
+        - stubs/aura-session.stub.php
+        - stubs/plates-template.stub.php
