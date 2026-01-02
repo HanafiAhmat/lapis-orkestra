@@ -292,6 +292,7 @@ Clarity and explicit design are prioritised over speed.
 ## Research Context
 
 This framework is developed as part of a Master’s programme in Computer Science, focusing on **software maintenance and incremental development through modular design**.
+This repository supports Chapters 4 and 5 of the accompanying Master’s thesis.
 
 Supporting documentation expands on architectural decisions and their academic justification.
 
@@ -322,3 +323,50 @@ Supporting documentation expands on architectural decisions and their academic j
 > 🔗 [Testing](docs/TESTING.md)
 >
 > 🔗 [Limitations and Future Work](docs/LIMITATIONS_AND_FUTURE_WORK.md)
+
+---
+
+## Related Repositories
+
+Lapis Orkestra is designed to be used as a **core framework** with external applications and vendor modules. The following repositories demonstrate real, working usage of the framework:
+
+### 🧩 Application Skeleton
+
+**Lapis Orkestra App Skeleton** provides a ready-to-run child application that depends on the framework via Composer.
+
+* Demonstrates how to:
+
+  * bootstrap a project using Lapis Orkestra
+  * configure modules, services, and utilities
+  * run the application in a browser
+* Acts as a reference implementation for real-world usage
+
+🔗 [https://github.com/HanafiAhmat/lapis-orkestra-app-skeleton](https://github.com/HanafiAhmat/lapis-orkestra-app-skeleton)
+
+---
+
+### 📦 Vendor Module Example
+
+**Lapis Orkestra Vendor Blog Module** is a sample third-party module installable via Composer.
+
+* Demonstrates:
+
+  * modular feature packaging
+  * module discovery and registration
+  * routes, controllers, actions, and UI contributions from a vendor module
+* Serves as a reference for developers building reusable Lapis Orkestra modules
+
+🔗 [https://github.com/HanafiAhmat/lapis-orkestra-vendor-blog-module](https://github.com/HanafiAhmat/lapis-orkestra-vendor-blog-module)
+
+---
+
+## Ecosystem Overview
+
+Together, these repositories form a complete working ecosystem:
+
+* **Lapis Orkestra Framework** — core runtime, architecture, and lifecycle
+* **App Skeleton** — real application integration and configuration
+* **Vendor Blog Module** — reusable, Composer-installed feature module
+
+This ecosystem validates the framework’s design goals of **modularity**, **maintainability**, and **incremental development**.
+
